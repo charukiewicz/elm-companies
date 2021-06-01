@@ -80,6 +80,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Folq](https://folq.no/)
   ([GitHub](https://github.com/folq)) -
   Folq is an online marketplace for consulting services. Based in Norway.
+* [Foxhound Systems](https://www.foxhound.systems/)
+  ([GitHub](https://github.com/foxhound-systems))
+  ([Blog](https://www.foxhound.systems/blog/)) -
+  Custom software development company that builds reliable, high performance
+  web applications.
 * [Futurice](http://futurice.com/)
   ([GitHub](https://github.com/futurice)) -
   Futurice helps clients generate innovative ideas and turn them into
